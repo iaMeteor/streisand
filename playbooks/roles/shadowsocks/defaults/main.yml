@@ -2,6 +2,6 @@
 shadowsocks_server_port: "7381"
 shadowsocks_local_port: "1080"
 shadowsocks_timeout: "600"
-shadowsocks_encryption_method: "aes-256-cfb"
+shadowsocks_encryption_method: "rc4-md5"
 shadowsocks_tcp_fast_open: "true"
-shadowsocks_enable_ota: "true"
+shadowsocks_enable_ota: "false"
